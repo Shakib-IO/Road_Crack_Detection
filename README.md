@@ -1,1 +1,1 @@
-# Road_Crack_Dectection
+# Road_Crack_Detection
