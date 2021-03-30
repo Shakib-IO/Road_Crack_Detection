@@ -10,7 +10,7 @@ Dataset for this work: https://data.mendeley.com/datasets/5y9wdsg2zt/1
 
 ---
 
-Sample example of the Dataset
+Sample of the Dataset
 
 Positive:
 
