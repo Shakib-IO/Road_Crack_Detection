@@ -14,9 +14,7 @@ Sample example of the Dataset
 
 Positive:
 
-<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Positive/00460.jpg">
-<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Positive/00461.jpg">
-<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Positive/00462.jpg">
+<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Positive/00460.jpg"> <img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Positive/00461.jpg"> <img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Positive/00462.jpg">
 
 Negative:
 
