@@ -7,3 +7,19 @@ Paper link : https://ieeexplore.ieee.org/document/7533052
 ---
 
 Dataset for this work: https://data.mendeley.com/datasets/5y9wdsg2zt/1
+
+The dataset is divided into two as negative and positive crack images for image classification. 
+Each class has 20000images with a total of 40000 images with 227 x 227 pixels with RGB channels. 
+The dataset is generated from 458 high-resolution images (4032x3024 pixel) with the method proposed by Zhang et al (2016). 
+
+---
+
+Sample of the Dataset
+
+Positive:
+
+<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Positive/00460.jpg"> <img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Positive/00461.jpg"> <img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Positive/00462.jpg">
+
+Negative:
+
+<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Negative/01684.jpg"> <img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Negative/01685.jpg"> <img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Negative/01686.jpg">
