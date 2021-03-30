@@ -7,3 +7,17 @@ Paper link : https://ieeexplore.ieee.org/document/7533052
 ---
 
 Dataset for this work: https://data.mendeley.com/datasets/5y9wdsg2zt/1
+
+---
+
+Sample example of the Dataset
+
+Positive:
+<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Positive/00460.jpg">
+<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Positive/00461.jpg">
+<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Positive/00462.jpg">
+
+Negative:
+<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Negative/01684.jpg">
+<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Negative/01685.jpg">
+<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Negative/01686.jpg">
