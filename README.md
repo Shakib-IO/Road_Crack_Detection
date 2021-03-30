@@ -18,6 +18,4 @@ Positive:
 
 Negative:
 
-<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Negative/01684.jpg">
-<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Negative/01685.jpg">
-<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Negative/01686.jpg">
+<img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Negative/01684.jpg"> <img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Negative/01685.jpg"> <img src="https://github.com/Shakib-IO/Road_Crack_Detection/blob/main/Dataset/Negative/01686.jpg">
